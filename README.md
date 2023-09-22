@@ -1,7 +1,7 @@
 # Exploring-CMDLets
 
-[!NOTE]
-> THIS IS BY A BEGINNER/NOOB/ROOKIE so please forgive my jargons and the way i explain some stuff.
+
+> THIS IS BY A BEGINNER/NOOB/ROOKIE so please forgive my jargons and the way I explain some stuff.
 These are lab works from my classes that I wish to share here as well.
 I would like to thank my professors for being cool and chill. 
 
