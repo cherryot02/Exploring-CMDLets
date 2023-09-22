@@ -1,0 +1,7 @@
+# Exploring-CMDLets
+These are lab works from my classes that I wish to share here as well.
+I would like to thank my professors for being cool and chill. 
+
+I am currently taking courses for my AAS in Information Systems Technology, majoring in Cybersecurity. I am creating these repositories to get used to documenting my learnings and also people who are not as tech savvy, like me, to know about these things.
+
+We can do this!
