@@ -30,7 +30,7 @@ Show-Command -Name "Invoke-Command"
 
 | Command            | Description |
 | ---                | ---         |
-| Get-NetIPinterface | This cmdlet will disable any network you are connected in, depending on which one you specify.                                                  |
+| Disable-NetAdapter | This cmdlet will disable any network you are connected in, depending on which one you specify.                                                  |
 |                    | I actually had a hard time figuring this out because I kept instead of just name according to the table(Get-NetAdapter) but I figured it out.   |
 
 Syntax explored:
@@ -40,7 +40,7 @@ Disable-NetAdapter -Name "Name of Adapter" -Confirm:$false
 
 | Command            | Description |
 | ---                | ---         |
-| Disable-NetAdapter | This will display a table that shows the IP interface information; IfIndex, address family(IPv4, IPv6), NlMtu(Bytes) and interface metrics.  |
+| Get-NetIPinterface | This will display a table that shows the IP interface information; IfIndex, address family(IPv4, IPv6), NlMtu(Bytes) and interface metrics.  |
 
 Syntax explored:
 ```
