@@ -72,3 +72,5 @@ Get-NetIPAddress -suffixorigin DHCP
 I come to realise that these codes are not case-sensitive, but it is highly recommended that each new word should be capitalised. 
 for example, instead of `get-eventlog -list` , it should be `Get-EventLog -List`. It will execute either way but it's more so for a cleaner and readable code.
 I learned this during my web design class. It's also a good habit to get used to.
+
+On later note, caps are important in Linux terminal...I am already exploring linux and will share my labs/documentation in the future.
