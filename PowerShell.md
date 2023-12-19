@@ -1,4 +1,4 @@
-# Introduction to PowerShell
+# PowerShell Exploration
 > [!NOTE] 
 > These are from my lab works so they are not exactly complete, in an exploration POV. \
 > Also, I have no experience in PowerShell so I am being careful not break anything.
